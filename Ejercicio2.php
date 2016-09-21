@@ -1,6 +1,7 @@
 <?php
 
-echo "EJERCICIO GIT";
+$nombre = "Ingles96" ;
+echo "EJERCICIO GIT ". $nombre;
 
 
 
